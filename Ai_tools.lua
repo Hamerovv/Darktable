@@ -182,7 +182,7 @@ local function Existing_tag_button()
 end
 
 -----------------------------------------------------------------------
--- Popular Tagging
+-- Popular Tagging -
 -----------------------------------------------------------------------
 local function Popular_tag_button()
     local images = dt.gui.selection()
